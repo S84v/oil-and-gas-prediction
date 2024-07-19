@@ -31,3 +31,6 @@ The dataset used in this project includes:
 By the end of this project, we aim to provide a comprehensive analysis of crude oil production trends and deliver actionable insights that can help stakeholders in making informed decisions.
 
 The dataset used for this project can be found [here](https://www.equinor.com/energy/volve-data-sharing) and the license for the data use can be found [here](https://github.com/S84v/oil-and-gas-prediction/blob/main/HRS%20and%20Terms%20and%20conditions%20for%20license%20to%20data%20-%20Volve.pdf).
+
+### 📸 View This Project
+View this project on nbviewer [here](https://nbviewer.org/github/S84v/oil-and-gas-prediction/blob/main/oil-and-gas.ipynb).
